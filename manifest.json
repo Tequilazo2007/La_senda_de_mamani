@@ -1,0 +1,17 @@
+{
+  "name": "La Senda de Mamani",
+  "short_name": "Mamani",
+  "description": "Una aventura epica en los Andes.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#ffcc00",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ]
+}
